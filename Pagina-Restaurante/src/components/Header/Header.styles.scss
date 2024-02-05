@@ -1,0 +1,8 @@
+.header {
+    display: flex;
+    margin-bottom: 1.25rem;
+    justify-content: center;
+    &__link {
+        margin-left: 0.625 rem;
+    }
+}
